@@ -1,24 +1,26 @@
 html {
-  background-color: #47c07d
+  background-color: white
 }
 
 p {
-  color: #6feeff
+  color: #010753
 }
 #headline {
  font-size: 20px;
  font-weight: bold;
  text-align: center;
- color: #96dcf3
+ border-bottom: 2px;
+ color: #000000
 }
 .box {
   padding: 0.5em 1em;
     margin: 2em 0;
     text-align:center;
+
     font-weight: bold;
-    color: #000000;/*文字色*/
-    background: #069af6;
-    border: solid 3px color=#00c3f0, 111, 219, 0.067;/*線*/
+    color: #010753;/*文字色*/
+    background: white;
+    border: solid 3px color=#010753, 111, 219, 0.067;/*線*/
     border-radius: 10px;/*角の丸み*/
 }
 
