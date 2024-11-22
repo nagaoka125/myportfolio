@@ -19,10 +19,10 @@ p {
   color: #010753
 }
 #headline {
-  font-size: 20px;
+  font-size: 40px;
   font-weight: bold;
   text-align: center;
-  border-bottom: 2px;
+  border-bottom: 2px inset black;
   color: #000000
 }
 .box {
