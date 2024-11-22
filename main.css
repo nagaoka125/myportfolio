@@ -6,6 +6,7 @@ body {
   margin: 3em auto;
   padding: 0px 20px;
   font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 400;
 }
 
 h2 {
@@ -25,8 +26,8 @@ p {
  color: #000000
 }
 .box {
-  width: 50%;
-  height: 250px;
+  width: 30%;
+  height: 200px;
   padding: 0.5em 1em;
   margin: 0 auto;
   font-size: 20px;
