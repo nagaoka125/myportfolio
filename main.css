@@ -26,9 +26,9 @@ p {
 }
 .box {
   width: 50%;
-  height: 150px;
+  height: 250px;
   padding: 0.5em 1em;
-  margin: 2em;
+  margin: 0 auto;
   font-size: 20px;
   text-align: center;
   font-weight: bold;
