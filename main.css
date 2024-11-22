@@ -24,8 +24,8 @@ p {
   text-align: center;
   padding: 20px;
   margin: 2em;
-  border-bottom: 3px inset black;
-  color: #000000
+  background-color: black;
+  color: white
 }
 .box {
   width: 60%;
