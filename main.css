@@ -2,6 +2,17 @@ html {
   background-color: white
 }
 
+body {
+  margin: 3em auto;
+  padding: 0px 20px;
+}
+
+h2 {
+  position: relative;
+  color: #010753;
+  font-size: 15px
+}
+
 p {
   color: #010753
 }
@@ -20,7 +31,7 @@ p {
     font-weight: bold;
     color: #010753;/*文字色*/
     background: white;
-    border: solid 3px color=#010753, 111, 219, 0.067;/*線*/
+    border: solid 3px color=#010753;/*線*/
     border-radius: 10px;/*角の丸み*/
 }
 
