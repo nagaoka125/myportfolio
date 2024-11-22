@@ -25,18 +25,20 @@ p {
  color: #000000
 }
 .box {
+  width: 50%;
+  height: 150px;
   padding: 0.5em 1em;
-    margin: 2em 0;
-    font-size: 20px;
-    text-align: center;
-    font-weight: bold;
-    color: #010753;/*文字色*/
-    background: white;
-    border: solid 3px #010753;/*線*/
-    border-radius: 10px;/*角の丸み*/
+  margin: 2em;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+  color: #010753;/*文字色*/
+  background: white;
+  border: solid 3px #010753;/*線*/
+  border-radius: 10px;/*角の丸み*/
 }
 
 .box p {
   margin: 0;
-  padding: 0;
+  padding: 5px;
 }
