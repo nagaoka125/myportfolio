@@ -22,7 +22,9 @@ p {
   font-size: 40px;
   font-weight: bold;
   text-align: center;
-  border-bottom: 2px inset black;
+  padding: 20px;
+  margin: 2em;
+  border-bottom: 3px inset black;
   color: #000000
 }
 .box {
