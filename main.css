@@ -10,7 +10,7 @@ body {
 h2 {
   position: relative;
   color: #010753;
-  font-size: 15px;
+  font-size: 30px;
 }
 
 p {
@@ -26,8 +26,6 @@ p {
 .box {
   padding: 0.5em 1em;
     margin: 2em 0;
-    text-align:center;
-
     font-weight: bold;
     color: #010753;/*文字色*/
     background: white;
@@ -36,6 +34,7 @@ p {
 }
 
 .box p {
+  font-size: 30px;
   margin: 0;
   padding: 0;
 }
