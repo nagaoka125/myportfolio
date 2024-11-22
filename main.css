@@ -19,11 +19,11 @@ p {
   color: #010753
 }
 #headline {
- font-size: 20px;
- font-weight: bold;
- text-align: center;
- border-bottom: 2px;
- color: #000000
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  border-bottom: 2px;
+  color: #000000
 }
 .box {
   width: 60%;
@@ -31,7 +31,6 @@ p {
   padding: 0.5em 1em;
   margin: 0 auto;
   font-size: 20px;
-  text-align: center;
   font-weight: bold;
   color: #010753;/*文字色*/
   background: white;
@@ -42,4 +41,11 @@ p {
 .box p {
   margin: 0;
   padding: 5px;
+}
+
+.teko {
+  font-family: "Teko", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
 }
