@@ -30,7 +30,7 @@ p {
 .box {
   width: 60%;
   height: 200px;
-  padding: 1.5em 1em;
+  padding: 1em 1em;
   margin: 0 auto;
   font-size: 20px;
   font-weight: bold;
@@ -42,7 +42,7 @@ p {
 
 .box p {
   margin: 0;
-  padding: 5px;
+  padding: 50px 5px;
 }
 
 .teko {
@@ -53,11 +53,11 @@ p {
 }
 
 .tangoimg {
-  padding: 0px 20px;
+  padding: 0px 40px;
   gap: 10px;
 }
 
 .tangoimg img {
-  width: 30%; 
+  width: 35%; 
   height: auto; 
 }
