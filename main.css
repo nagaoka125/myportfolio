@@ -61,3 +61,13 @@ p {
   width: 35%; 
   height: auto; 
 }
+
+.schedule {
+  padding: 0px 40px;
+  gap: 10px;
+}
+
+.schedule img {
+  width: 35%;
+  height: auto;
+}
