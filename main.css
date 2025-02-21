@@ -70,5 +70,6 @@ p {
 
 .schedule img {
   width: 35%;
+  margin: 0 auto;
   height: auto;
 }
