@@ -52,6 +52,13 @@ p {
   font-style: normal;
 }
 
+.mainimg img {
+  width: 40%;
+  padding: 0px 40px;
+  margin: 0 auto;
+  gap: 10px;
+}
+
 .tangoimg {
   padding: 0px 40px;
   gap: 10px;
