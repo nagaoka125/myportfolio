@@ -29,9 +29,6 @@ p {
   color: #010753
 }
 
-
-
-
 #headline {
   font-size: 35px;
   font-weight: bold;
@@ -96,7 +93,8 @@ p {
 }
 
 .introduction {
-  width: 30%;
+  width: 80%;
+  max-width: 100%;
   padding: 1em 1em;
   margin: 0 auto;
   font-size: 20px;
