@@ -29,17 +29,7 @@ p {
   color: #010753
 }
 
-.introduction {
-  width: 60%;
-  padding: 1em 1em;
-  margin: 0 auto;
-  font-size: 20px;
-  font-weight: bold;
-  color: #010753;
-  background: white;
-  border: solid 3px #010753;
-  border-radius: 10px;
-}
+
 
 
 #headline {
@@ -103,4 +93,16 @@ p {
   width: 35%;
   margin: 0 auto;
   height: auto;
+}
+
+.introduction {
+  width: 60%;
+  padding: 1em 1em;
+  margin: 0 auto;
+  font-size: 20px;
+  font-weight: bold;
+  color: #010753;
+  background: white;
+  border: solid 3px #010753;
+  border-radius: 10px;
 }
