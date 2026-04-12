@@ -12,8 +12,11 @@ body {
 h2 {
   margin-top: 30px;
   position: relative;
-  color: #010753;
+  color: #ffffff;
   font-size: 30px;
+  background-color: #010753;
+  padding: 10px;
+  border-bottom: #010366 solid 10px;
 }
 
 h3 {
@@ -22,7 +25,7 @@ h3 {
   font-size: 25px;
   background-color: #010753;
   padding: 10px;
-  border-bottom: #010366 solid 3px;
+  border-bottom: #010366 solid 15px;
 }
 
 p {
