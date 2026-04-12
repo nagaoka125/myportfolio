@@ -16,14 +16,37 @@ h2 {
   font-size: 30px;
 }
 
+h3 {
+  margin-top: 50px;
+  color: #ffffff;
+  font-size: 25px;
+  background-color: #010753;
+  padding: 10px;
+  border-bottom: #010366 solid 3px;
+}
+
 p {
   color: #010753
 }
+
+introduction {
+  width: 60%;
+  padding: 1em 1em;
+  margin: 0 auto;
+  font-size: 20px;
+  font-weight: bold;
+  color: #010753;
+  background: white;
+  border: solid 3px #010753;
+  border-radius: 10px;
+}
+
+
 #headline {
   font-size: 35px;
   font-weight: bold;
   text-align: center;
-  padding: 10px;
+  padding: 20px;
   background-color: black;
   color: white
 }
@@ -34,10 +57,10 @@ p {
   margin: 0 auto;
   font-size: 20px;
   font-weight: bold;
-  color: #010753;/*文字色*/
+  color: #010753;
   background: white;
-  border: solid 3px #010753;/*線*/
-  border-radius: 10px;/*角の丸み*/
+  border: solid 3px #010753;
+  border-radius: 10px;
 }
 
 .box p {
