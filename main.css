@@ -29,7 +29,7 @@ p {
   color: #010753
 }
 
-introduction {
+.introduction {
   width: 60%;
   padding: 1em 1em;
   margin: 0 auto;
@@ -50,6 +50,7 @@ introduction {
   background-color: black;
   color: white
 }
+
 .box {
   width: 60%;
   height: 200px;
